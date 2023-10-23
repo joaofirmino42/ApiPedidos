@@ -1,0 +1,12 @@
+C:\Users\fadami\Documents\Application\ApiPedidos.Data\bin\Debug\net7.0\ApiPedidos.Infra.Data.deps.json
+C:\Users\fadami\Documents\Application\ApiPedidos.Data\bin\Debug\net7.0\ApiPedidos.Infra.Data.dll
+C:\Users\fadami\Documents\Application\ApiPedidos.Data\bin\Debug\net7.0\ApiPedidos.Infra.Data.pdb
+C:\Users\fadami\Documents\Application\ApiPedidos.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fadami\Documents\Application\ApiPedidos.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\fadami\Documents\Application\ApiPedidos.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.AssemblyInfo.cs
+C:\Users\fadami\Documents\Application\ApiPedidos.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\fadami\Documents\Application\ApiPedidos.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.dll
+C:\Users\fadami\Documents\Application\ApiPedidos.Data\obj\Debug\net7.0\refint\ApiPedidos.Infra.Data.dll
+C:\Users\fadami\Documents\Application\ApiPedidos.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.pdb
+C:\Users\fadami\Documents\Application\ApiPedidos.Data\obj\Debug\net7.0\ref\ApiPedidos.Infra.Data.dll
+C:\Users\fadami\Documents\Application\ApiPedidos.Data\obj\Debug\net7.0\ApiPedidos.Infra.Data.csproj.AssemblyReference.cache
